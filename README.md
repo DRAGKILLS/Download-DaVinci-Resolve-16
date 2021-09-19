@@ -3,6 +3,6 @@ Download DaVinci
 
 im bad at html and css
 
-It only work in desktop mode if you on android
+if you on android you will see the website bad
 
 Link: https://dragkills.github.io/Download-DaVinci-Resolve-16/
