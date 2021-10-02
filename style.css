@@ -1,11 +1,11 @@
+:root{
+    --max-width: 1120px;
+}
+
 body {
     width: 90vw;
     max-width: var(--max-width);
     background-color: white;
-}
-
-:root{
-    --max-width: 1120px;
 }
 
 button {
