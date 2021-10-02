@@ -2,19 +2,7 @@ body {
     background-color: white;
 }
 
-button {
-    font-size: 46px;
-    margin-top: 356px;
-    margin-right: 100px;
-    margin-left: 780px;
-    border-bottom: 1px solid #fff;
-    padding-top: 10px;
-    padding-bottom: 5px;
-    background-color: rgb(4, 0, 255);
-    border-radius: 100px;
-    border-color: red;
-    border-bottom-width: 2px;
-}
+button {}
 
 .nav-center {
     width: 90vw
