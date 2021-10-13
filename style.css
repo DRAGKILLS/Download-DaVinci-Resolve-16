@@ -1,20 +1,15 @@
-:root{
-    --max-width: 1120px;
+body {
+    background-color: white;
 }
 
-body {
-    width: 90vw;
-    max-width: var(--max-width);
-    background-color: white;
+.body_div{
+    width: 260px;
+    padding: 20% 0 0;
+    margin: auto;
 }
 
 button {
     font-size: 46px;
-    margin-top: 356px;
-    margin-right: 100px;
-    margin-left: 780px;
-    border-bottom: 1px solid #fff;
-    padding-top: 10px;
     padding-bottom: 5px;
     background-color: rgb(4, 0, 255);
     border-radius: 100px;
